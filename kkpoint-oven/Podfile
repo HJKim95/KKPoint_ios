@@ -1,0 +1,83 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '12.0'
+use_frameworks!
+inhibit_all_warnings!
+
+def app_pods
+    # Pods for kkpoint-oven
+    # for Youtube
+    # pod 'youtube-ios-player-helper', '1.0.2'
+    pod 'YoutubePlayer-in-WKWebView'
+
+    # for Correct grammar
+    pod 'SwiftLint', '0.42.0'
+
+    # for Kakao Login
+    pod 'KakaoSDKAuth', '2.6.0'
+    pod 'KakaoSDKUser', '2.6.0'
+
+    # for Kakao Share
+    pod 'KakaoSDKLink', '2.6.0'
+    pod 'Alamofire', '5.4.1'
+
+    # for Google Login
+    pod 'GoogleSignIn', '5.0.2'
+
+    # for Naver Login
+    pod 'naveridlogin-sdk-ios'
+
+    # for Firebase
+    pod 'Firebase/Analytics'
+    pod 'Firebase/Crashlytics'
+
+    # for AWS APNS
+    pod 'AWSSNS'
+    pod 'AWSCore'
+    pod 'AWSCognito'
+
+    # for Lottie
+    pod 'lottie-ios'
+
+    # for google adMob
+    pod 'Google-Mobile-Ads-SDK'
+
+    # for Adiscope
+    #pod 'Adiscope', '2.0.4.0'
+    #pod 'AdiscopeMediaAppLovin', '2.0.2.0'
+    #pod 'AdiscopeMediaAdMob', '2.0.3.0'
+    #pod 'AdiscopeMediaAdColony', '2.0.2.0'
+    #pod 'AdiscopeMediaFAN', '2.0.2.0'
+    #pod 'AdiscopeMediaMobVista', '2.0.2.0'
+   #pod 'AdiscopeMediaUnityAds', '2.0.2.0'
+    #pod 'AdiscopeMediaVungle', '2.0.2.0' 
+
+  # Adiscope Media Networks
+  pod 'UnityAds', '3.5.0'
+  pod 'TapjoySDK', '12.7.1'
+  pod 'ChartboostSDK', '8.3.1.1'
+  pod 'VungleSDK-iOS', '6.8.0'
+  pod 'MintegralAdSDK', '6.6.5.1'
+  pod 'MintegralAdSDK/RewardVideoAd', '6.6.5.1'
+  pod 'FBAudienceNetwork', '6.5.0'
+  pod 'FBSDKCoreKit', '8.1.0'
+
+end
+
+target 'kkpoint-oven' do
+  app_pods
+end
+
+target 'kkpoint-ovenDev' do
+  app_pods
+end
+
+post_install do |installer|
+     installer.pods_project.targets.each do |target|
+         target.build_configurations.each do |config|
+             config.build_settings['DEBUG_INFORMATION_FORMAT'] = 'dwarf'
+             config.build_settings.delete 'IPHONEOS_DEPLOYMENT_TARGET'
+             config.build_settings['ONLY_ACTIVE_ARCH'] = 'YES'
+         end
+     end
+  end
+

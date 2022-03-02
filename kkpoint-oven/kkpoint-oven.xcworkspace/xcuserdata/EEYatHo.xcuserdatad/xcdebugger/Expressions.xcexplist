@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MainController.touchKaKao():MainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "linkResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Coordinator.hideFullScreen(playingVideoData:):CoordinatorManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "preVC">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.sign(_:didSignInFor:withError:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.serverAuthCode">
+            </PersistentString>
+            <PersistentString
+               value = "user.authentication.idToken">
+            </PersistentString>
+            <PersistentString
+               value = "authentication.idToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangeNameViewController.checkNamePolicy(text:):ChangeNameViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthController.authorizeWithAuthenticationSession(authType:agtToken:scopes:channelPublicIds:serviceTerms:accountParameters:completion:):AuthController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Utilities.lineNumber(label:text:):Utilities.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.bounds.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.authorizationController(controller:didCompleteWithAuthorization:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appleIDCredential.fullName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static SubscribeManager.cancel(cid:successHandler:):SubscribeManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShopCouponCollectionViewCell.myPointData.didset:ShopCouponCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalPoints">
+            </PersistentString>
+            <PersistentString
+               value = "formattedPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.tabKakaoLogin():LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Utilities.lineNumber(label:width:):Utilities.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MBCDetailViewController.tableView(_:didSelectRowAt:):MBCDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cid">
+            </PersistentString>
+            <PersistentString
+               value = "videoList[indexPath.row].videoId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Constraint.activateIfNeeded(updatingExisting:):Constraint.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SearchViewController.searchBarSearchButtonClicked(_:):SearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthApi.token(code:codeVerifier:redirectUri:completion:):AuthApi.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static NetworkManager.getAllVideos(handler:):NetworkAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Resource.Str.Url.videoUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailYoutubeViewController.cancelSubscribe():DetailYoutubeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "check.resultCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomTabbar.layoutSubviews():CustomTabbar.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailYoutubeViewController.video.didset:DetailYoutubeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self?.relatedVideoList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MBCDetailViewController.cid.didset:MBCDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "list[0][&quot;lowUrl&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self?.cid">
+            </PersistentString>
+            <PersistentString
+               value = "list[0][&quot;title&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self?.nowVideoUrlString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailYoutubeViewController.collectionView(_:numberOfItemsInSection:):DetailYoutubeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "relatedVideoList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in DetailYoutubeViewController.tabFullscreenButton():DetailYoutubeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIScreen.main.bounds.height">
+            </PersistentString>
+            <PersistentString
+               value = "UIScreen.main.bounds.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #6 in closure #1 in static ToastManager.showToast(message:):ToastManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "topVC.view.safeAreaLayoutGuide">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainController.touchKaKao():MainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "templatable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailYoutubeViewController.collectionView(_:didSelectItemAt:):DetailYoutubeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "relatedVideoList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AVPlayerViewController.viewWillAppear(_:):AVPlayerViewController+.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController?.navigationBar.backgroundColor">
+            </PersistentString>
+            <PersistentString
+               value = "navigationController">
+            </PersistentString>
+            <PersistentString
+               value = "UINavigationBar.appearance().barTintColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthController.authorizeWithTalk(channelPublicIds:serviceTerms:completion:):AuthController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PrivacyViewController.scrollViewDidScroll(_:):PrivacyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in AuthController.authorizeWithTalk(channelPublicIds:serviceTerms:completion:):AuthController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:supportedInterfaceOrientationsFor:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "supportedInterfaceOrientation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Main_SecondCollectionViewCell.collectionView(_:didSelectItemAt:):Main_SecondCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in LoginViewController.tabKakaoLogin():LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MBCDetailViewController.changeVideo():MBCDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle.main.path(forResource: &quot;test&quot;, ofType: &quot;mov&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static ToastManager.showToast(message:isTopWindow:):ToastManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Utilities.topViewController()">
+            </PersistentString>
+            <PersistentString
+               value = "Utilities.topWindow()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SubscribeViewController.getSubscribeData():SubscribeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.oauth20Connection(_:didFinishAuthorizationWithResult:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loginInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static NetworkManager.request&lt;A&gt;(urlString:method:headers:parameters:_:):NetworkManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailViewController.singerIdx.didset:DetailViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static NetworkManager.request&lt;A&gt;(urlString:method:headers:parameters:_:):NetworkManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SearchViewController.searchBar.getter:SearchViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SearchViewController.clearSearch():SearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationItem.rightBarButtonItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PrivacyViewController.viewWillAppear(_:):PrivacyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UILabel.customFont(fontName:size:letterSpacing:lineSpacing:):UILabel+FontWithKern.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "attributedText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.viewDidLoad():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailYoutubeViewController.playerViewDidBecomeReady(_:):DetailYoutubeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in SubscribeViewController.getSubscribeData():SubscribeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mySubscribeVideos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyInfoViewController.checkDidLoggedIn():MyInfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "myPointData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.viewDidAppear(_:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AccountManager.shared.getAutoLoginState()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.getVideoData():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self?.homeCollectionView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Utilities.lineNumber(text:labelWidth:):Utilities.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.font">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Utilities.lineNumber(label:labelWidth:):Utilities.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:open:options:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NaverThirdPartyLoginConnection.getSharedInstance()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShopPageBar.setupLayouts():ShopPageBar.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shopPageBarCollectionView.cellForItem(at: IndexPath(row: 0, section: 0))">
+            </PersistentString>
+            <PersistentString
+               value = "cell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in CouponDetailViewController.clickFloatingButton():CouponDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AccountManager.shared.pointData?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static SubscribeManager.apply(cid:successHandler:):SubscribeManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SearchViewController.collectionView(_:cellForItemAt:):SearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subscribeList[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "channelList[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

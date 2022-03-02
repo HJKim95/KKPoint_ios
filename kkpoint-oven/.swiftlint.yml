@@ -1,0 +1,26 @@
+disabled_rules:
+#  - type_name
+  - trailing_whitespace
+  - function_body_length
+  - type_body_length
+  
+identifier_name:
+  excluded:
+    - id
+#  severity: warning
+#  validates_start_with_lowercase: false
+#  allowed_symbols: ["_"]
+  
+
+line_length:
+  ignores_function_declarations: true
+#  ignores_comments: true
+#  ignores_urls: true
+  
+# Font 관련해서 생기는 문제..
+#cyclomatic_complexity:
+#  ignores_case_statements: true
+
+excluded:
+  - Pods
+  - Resource

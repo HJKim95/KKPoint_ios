@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31A3E9F5-9281-4916-8972-BD72349A68D7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49AAAB14-7290-4857-ACB2-E7C31F3FA0EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/naveridlogin-sdk-ios/NaverThirdPartyLogin.framework/Headers/NaverThirdPartyLoginConnection.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-requestThirdPartyLogin"
+            landmarkType = "6">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "056A8715-8E29-4CF9-B048-E20F6344D17D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/naveridlogin-sdk-ios/NaverThirdPartyLogin.framework/Headers/NaverThirdPartyLoginConnection.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "-requestAccessTokenWithRefreshToken"
+            landmarkType = "6">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EF70D89-8258-4BEE-B5C7-58892B72F0A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/naveridlogin-sdk-ios/NaverThirdPartyLogin.framework/Headers/NaverThirdPartyLoginConnection.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-requestDeleteToken"
+            landmarkType = "6">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED6DA591-A49B-40CA-B445-BE2763717F00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/naveridlogin-sdk-ios/NaverThirdPartyLogin.framework/Headers/NaverThirdPartyLoginConnection.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "-receiveAccessToken:"
+            landmarkType = "6">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C702FC21-0146-4171-99AB-F4E64D441A70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/KakaoSDKAuth/sources/KakaoSDKAuth/auth/AuthController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "authorizeWithAuthenticationSession(authType:agtToken:scopes:channelPublicIds:serviceTerms:accountParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B06A991-0AE8-495D-A5C0-52421B73FC7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/KakaoSDKAuth/sources/KakaoSDKAuth/auth/AuthController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "authorizeWithAuthenticationSession(authType:agtToken:scopes:channelPublicIds:serviceTerms:accountParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01346332-6704-41DC-9207-9A36EAFDE4A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/KakaoSDKAuth/sources/KakaoSDKAuth/auth/AuthController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "authorizeWithAuthenticationSession(authType:agtToken:scopes:channelPublicIds:serviceTerms:accountParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46EE1235-AFED-4635-A58D-61F9CA216EC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/KakaoSDKAuth/sources/KakaoSDKAuth/auth/AuthController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "authorizeWithAuthenticationSession(authType:agtToken:scopes:channelPublicIds:serviceTerms:accountParameters:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46EE1235-AFED-4635-A58D-61F9CA216EC9 - c7747da7daa7a2ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KakaoSDKAuth.AuthController.authorizeWithAuthenticationSession(authType: Swift.Optional&lt;KakaoSDKAuth.AuthType&gt;, agtToken: Swift.Optional&lt;Swift.String&gt;, scopes: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, channelPublicIds: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, serviceTerms: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, accountParameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, completion: (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "KakaoSDKAuth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/EEYatHo/Desktop/Neowiz/kkpoint_ios/kkpoint-oven/Pods/KakaoSDKAuth/sources/KakaoSDKAuth/auth/AuthController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+               <Location
+                  uuid = "46EE1235-AFED-4635-A58D-61F9CA216EC9 - 17c86e75dc84c3a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KakaoSDKAuth.AuthController.authorizeWithAuthenticationSession(authType: Swift.Optional&lt;KakaoSDKAuth.AuthType&gt;, agtToken: Swift.Optional&lt;Swift.String&gt;, scopes: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, channelPublicIds: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, serviceTerms: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, accountParameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, completion: (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "KakaoSDKAuth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/EEYatHo/Desktop/Neowiz/kkpoint_ios/kkpoint-oven/Pods/KakaoSDKAuth/sources/KakaoSDKAuth/auth/AuthController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E870D813-04DA-4D99-8E58-E42A5965D1EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Controllers/ShopViewController/Coupon/Detail/CouponDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "clickFloatingButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

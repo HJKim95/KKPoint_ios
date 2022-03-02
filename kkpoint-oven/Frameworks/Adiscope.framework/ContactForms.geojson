@@ -1,0 +1,70 @@
+{
+  "forms": [
+          {
+            "id": "adName",
+            "layout": "adSelector",
+            "title": "문의할 광고명",
+            "precondition": true,
+            "placeholder": "광고명을 입력해 주세요."
+          },
+          {
+            "id": "attendDate",
+            "layout": "const",
+            "title": "참여한 날짜",
+            "precondition": true,
+            "placeholder": "예시 : 2018.01.16 오후 2시쯤"
+          },
+          {
+            "id": "content",
+            "layout": "textArea",
+            "title": "문의할 내용",
+            "precondition": true,
+            "placeholder": "최대한 구체적으로 입력해 주세요."
+          },
+          {
+            "id": "name",
+            "layout": "textField",
+            "title": "이름",
+            "precondition": true,
+            "placeholder": "이벤트 참여한 본인의 이름을 입력해 주세요."
+          },
+          {
+            "id": "phoneNum",
+            "layout": "number",
+            "title": "휴대폰 번호",
+            "precondition": false,
+            "placeholder": "[-] 없이 숫자만 입력해주세요.",
+            "description": "※ 참여형 이벤트의 경우 반드시 이름/전화번호  정보가 필요합니다. 명확한 정보 미기재시 처리가 지연될 수 있음을  양해 부탁드립니다."
+          },
+          {
+            "id": "orderId",
+            "layout": "textField",
+            "title": "주문번호",
+            "precondition": false,
+            "placeholder": "구매형 이벤트 참여시, '주문번호'를 입력해주세요",
+            "description": "※ 구매형 이벤트의 경우  ‘주문번호’ 정보가 필요합니다. 명확한 정보 미기재시 처리가 지연될 수 있음을 양해  부탁드립니다."
+          },
+          {
+            "id": "eventId",
+            "layout": "textField",
+            "title": "이벤트 참여 ID",
+            "precondition": false,
+            "placeholder": "이벤트 참여 시 사용한 ID를 입력해주세요."
+          },
+          {
+            "id": "email",
+            "layout": "email",
+            "title": "답변 받을 이메일",
+            "precondition": true,
+            "placeholder": "예시 : example@abc.com"
+          },
+          {
+            "id": "version",
+            "layout": "context",
+            "title": "Adiscope 버전",
+            "precondition": false
+          }
+      ]
+}
+
+

@@ -1,0 +1,6 @@
+framework module Pods_kkpoint_oven {
+  umbrella header "Pods-kkpoint-oven-umbrella.h"
+
+  export *
+  module * { export * }
+}
